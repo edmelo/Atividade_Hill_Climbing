@@ -1,0 +1,3 @@
+=== Estatísticas (30 execuções) ===
+HC - Média: 463.9667, Desvio Padrão: 47.7100
+SHC - Média: 403.1667, Desvio Padrão: 43.7675

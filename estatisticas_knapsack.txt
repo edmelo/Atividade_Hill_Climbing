@@ -1,0 +1,4 @@
+=== Estatísticas das execuções ===
+Quantidade de execuções: 30
+Média do fitness: 463.9667
+Desvio padrão (amostral): 47.7100

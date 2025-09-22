@@ -1,0 +1,4 @@
+Iniciando experimentos em E:\Pycharm\Atividade_Hill_Climbing
+Arquivos gerados: boxplot_fitness.png, fitness_values.csv, estatisticas_knapsack.txt
+Iniciando experimentos em E:\Pycharm\Atividade_Hill_Climbing
+Arquivos gerados: boxplot_fitness.png, fitness_values.csv, estatisticas_knapsack.txt
