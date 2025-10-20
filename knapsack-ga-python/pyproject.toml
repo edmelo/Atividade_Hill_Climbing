@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "knapsack-ga-python"
+version = "0.1.0"
+description = "A genetic algorithm implementation to solve the knapsack problem."
+authors = ["Your Name <youremail@example.com>"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+numpy = "^1.21"
+scipy = "^1.7"
+
+[tool.poetry.dev-dependencies]
+pytest = "^6.2"
+pylint = "^2.9"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

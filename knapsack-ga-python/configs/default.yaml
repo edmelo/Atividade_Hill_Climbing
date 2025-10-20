@@ -1,0 +1,11 @@
+population_size: 50
+generations: 500
+tournament_size: 3
+crossover_rate: 0.8
+mutation_rate: 0.02
+elitism_count: 2
+crossover_methods:
+  - one_point
+  - two_point
+  - uniform
+instances: 3
